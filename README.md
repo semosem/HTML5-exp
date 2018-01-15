@@ -1,6 +1,6 @@
 # HTML-5 test
 
-Add/Edit/Delete participants on/from a guest list table. ReactJS
+Add/Edit/Delete participants on/from a guest list table. ReactJS. Please note that responsive designing is not implemented because of the given guideline and time. 
 
 ## Getting Started
 
