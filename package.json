@@ -2,18 +2,12 @@
   "name": "the-assignment",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "https://github.com/semosem/HTML5-test",
-=======
-  "homepage": "https://semosem.github.io/HTML5-test/",
->>>>>>> 145db687d56682b14b727c23e24f54ebebea544e
   "dependencies": {
     "chance": "^1.0.12",
-    "gh-pages": "^1.1.0",
     "material-design-icons": "^3.0.1",
     "material-ui": "^0.20.0",
     "node-random-name": "^1.0.1",
-    "package.json": "^2.0.1",
     "react": "^16.2.0",
     "react-bootstrap": "^0.32.0",
     "react-dom": "^16.2.0",
