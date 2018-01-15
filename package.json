@@ -2,7 +2,7 @@
   "name": "the-assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/semosem/HTML5-test",
+  "homepage": "https://semosem.github.io/HTML5-test",
   "dependencies": {
     "chance": "^1.0.12",
     "material-design-icons": "^3.0.1",
