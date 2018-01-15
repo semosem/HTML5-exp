@@ -1,0 +1,135 @@
+body {
+  background-color: #adb5bd;
+}
+
+.App {
+  background-color: #f1f1f1;
+  height: 100vh;
+}
+.navbar {
+  background-color: #adb5bd;
+  height: 96px;
+  padding: 32px;
+  color: white;
+  border-radius: 0;
+}
+.App-logo {
+  /* animation: App-logo-spin infinite 20s linear; */
+  height: 40px;
+  width: 40px;
+}
+
+.containerr {
+  width: 912px;
+  margin: 10rem auto;
+}
+#registerContainer {
+  margin-bottom: 0;
+  width: 100%;
+  /* border: 1px solid lime; */
+  margin-bottom: 1rem;
+}
+h3 {
+  margin-bottom: 5rem;
+  color: #757575;
+}
+form {
+  padding: 16px;
+  background-color: white;
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr 1fr;
+  margin-bottom: 0;
+}
+
+.inputAdd {
+  margin-right: 1rem;
+  height: 40px;
+  padding: 16px;
+  background-color: #fafafa;
+  outline: none;
+  border: 1px solid #f1f1f1;
+  /* border: 1px solid yellow; */
+}
+.inputEdit {
+  background-color: #fafafa;
+  height: 40px;
+
+  outline: none;
+  border: 1px solid #f1f1f1;
+  /* border: 1px solid yellow; */
+}
+
+.btn-add {
+  height: 40px;
+  background-color: #f1f1f1;
+  border: 1px solid #f1f1f1;
+  outline: none;
+  color: #757575;
+  text-align: center;
+  padding: 0 24px;
+}
+
+tr {
+  height: 72px;
+  border-bottom: 1px solid lightgrey;
+}
+th {
+  height: 48px;
+  padding: 24px;
+  color: #757575;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  /* text-align: center; */
+}
+td {
+  padding: 24px;
+  color: #505050;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.lists {
+  background-color: white;
+  width: 100%;
+}
+
+.deleteBtn {
+  background-color: #fff;
+  color: red;
+  height: 24px;
+  width: 24px;
+}
+.editBtn {
+  background-color: #fff;
+  color: red;
+}
+
+.App-title {
+  font-size: 1.5em;
+  display: inline;
+  margin-left: 1rem;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media only screen and (max-width: 900px) {
+  .containerr {
+    width: 100vw;
+    margin: 10rem auto;
+  }
+  h3 {
+    margin-left: 1rem;
+    color: #757575;
+  }
+}
