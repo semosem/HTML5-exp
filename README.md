@@ -44,7 +44,7 @@ yarn start
 
 ## Authors
 
-* **Sem Gebresilassie** - _Initial work_ -
+* ** Sem Gebresilassie** - _Initial work_ -
 
 ## Inspiration
 
